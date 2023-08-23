@@ -9,31 +9,31 @@
  
 <tr>
          <th bgcolor = "BurlyWood"> Nombre: </ th>
-         <td> Haohaohao </ td>
+         <td>  Alexander Castro </ td>
          <th bgcolor = "BurlyWood"> Edad: </ th>
-    <td>19</td>
+    <td>24</td>
          <th bgcolor = "BurlyWood"> nación: </ th>
-         <td> Han </ td>
+         <td> Peru </ td>
     <td rowspan="3" width="100"<p><a href="https://www.so.com/s?ie=utf-8&shb=1&src=home_tab_image&q=%E4%BB%A3%E5%BA%94%E8%B1%AA"><img border="0" src="http://a2.qpic.cn/psb?/V140HpS919MdYh/pzg3zzU**Gw41Fi7T8R9uNFUua5brWbnD3N9Bf8UPKI!/b/dAkBAAAAAAAA&bo=eAB4AAAAAAAFByQ!&rf=viewer_4" />
 </a></p></td>
 </tr>
  
 <tr>
          <th bgcolor = "BurlyWood"> Fecha de nacimiento: </ th>
-    <td>19970000</td>
+    <td>1998</td>
          <th bgcolor = "BurlyWood"> Perspectiva política: </ th>
-         <td> miembros </ td>
+         <td> Capitalista </ td>
          <th bgcolor = "BurlyWood"> Educación: </ th>
          <td> Pregrado </ td>
 </tr>
  
 <tr>
          <th bgcolor = "BurlyWood"> Profesional: </ th>
-         <td> Ingeniería de red </ td>
+         <td> Ingeniería de software </ td>
          <th bgcolor = "BurlyWood"> Escuela de graduación: </ th>
-         <td> Huainan Teachers College </ td>
+         <td> UTP </ td>
          <th bgcolor = "BurlyWood"> Código postal: </ th>
-    <td>237483</td>
+    <td>19019</td>
 </tr>
  
 <tr>
