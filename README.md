@@ -9,12 +9,12 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 - 👯 I’m looking to collaborate on Computer Vision
 - 🤔 I’m looking for a good project
 - 💬 Ask me about Computer Vision
-- 📫 How to reach me: [maitysourab@gmail.com](mailto:maitysourab@gmail.com)
+- 📫 How to reach me: [alexandercastro98@gmail.com](mailto:alexandercastro98@gmail.com)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Big fan of 🌈
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
+<a href="https://www.buymeacoffee.com/alexandercastro98" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
 
 ## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
